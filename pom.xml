@@ -28,13 +28,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<solr.version>5.5.2</solr.version>
-		<module-path>solr-${solr.version}/server/solr-webapp/webapp</module-path>
+		<module-path>lucene-solr/solr/webapp/web/</module-path>
 	</properties>
 
 	<groupId>org.dhus</groupId>
 	<artifactId>solr-webapp</artifactId>
-	<version>${solr.version}</version>
+	<version>5.5.2</version>
 	<packaging>war</packaging>
 
 	<name>DHuS - Solr WebApp</name>

@@ -1,0 +1,3 @@
+[submodule "lucene-solr"]
+	path = lucene-solr
+	url = git://git.apache.org/lucene-solr.git
