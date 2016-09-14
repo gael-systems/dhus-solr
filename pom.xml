@@ -29,11 +29,13 @@
 
 	<properties>
 		<module-path>lucene-solr/solr/webapp/web/</module-path>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 
 	<groupId>org.dhus</groupId>
 	<artifactId>solr-webapp</artifactId>
-	<version>5.5.2</version>
+	<version>5.5.3</version>
 	<packaging>war</packaging>
 
 	<name>DHuS - Solr WebApp</name>
